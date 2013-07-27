@@ -1,7 +1,7 @@
-5eb9ba30cb383459cbc4c83db9830de5 *DESCRIPTION
+92e1d922aa4296d16f2e770b06c39163 *DESCRIPTION
 2597881d8afd054781a4e7daf4968743 *LICENSE
 aaf9a2361fcdac7b3ab9208549337f2f *NAMESPACE
-31961076772f985347f128e8d0523163 *R/barplot.rtconnect.R
+cf621fab0d7c3af52611992b3c3a03b6 *R/barplot.rtconnect.R
 1b740679387f9a5c5c58c63776fe3628 *R/date.to.week.R
 2b674747a461724a2d4fa5eb3421725e *R/kPeriod.R
 13026b81a20809240d5e13850396458f *R/kProductTypeIdentifier.R
@@ -11,9 +11,9 @@ aaf9a2361fcdac7b3ab9208549337f2f *NAMESPACE
 609bb89a1a06a2c7bec3b5522676a7b4 *R/rtconnect.R
 b8d22bc0cca336a11694e0ff507f1cef *R/subset.rtconnect.R
 1a45f3c85f533a4e604adb021a5ade75 *R/week.to.date.R
-2c3dbd64bc681bac4596ef8a260512b3 *README.md
+53a9b802013f53dec2acb45dd1f949e9 *README.md
 6c3b74d92fa2bf0a8041e3be0e2ca4f2 *man/RTConnect-package.Rd
-105fbf6f56927bf1ea088414809afb02 *man/barplot.rtconnect.Rd
+6d44ec90ffdc1319afb1e277a61c7d39 *man/barplot.rtconnect.Rd
 63c5590c0a04c87cb3239590d35f1127 *man/date.to.week.Rd
 ae12d82bea7768b90ae37c8270b4d93b *man/kPeriod.Rd
 d6fb63bf76edd4fcafd92351fdb0c044 *man/kProductTypeIdentifier.Rd
