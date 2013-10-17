@@ -1,4 +1,4 @@
-c95c1f79da39a229e9354d2c8ca86a9a *DESCRIPTION
+68f7b4226127d27e14cb5b3c42e6a533 *DESCRIPTION
 aaf9a2361fcdac7b3ab9208549337f2f *NAMESPACE
 cf621fab0d7c3af52611992b3c3a03b6 *R/barplot.rtconnect.R
 1b740679387f9a5c5c58c63776fe3628 *R/date.to.week.R
@@ -7,7 +7,7 @@ cf621fab0d7c3af52611992b3c3a03b6 *R/barplot.rtconnect.R
 4295028b53056e67468845272a22d839 *R/kPromotionalCodes.R
 1d027ab2a61c99610c2f9b6233cd74c3 *R/kSubscription.R
 720ab2e55d11eb86bae7943eff386c3d *R/plot.rtconnect.R
-609bb89a1a06a2c7bec3b5522676a7b4 *R/rtconnect.R
+508f619b8110a690165f609db497a6ac *R/rtconnect.R
 b8d22bc0cca336a11694e0ff507f1cef *R/subset.rtconnect.R
 1a45f3c85f533a4e604adb021a5ade75 *R/week.to.date.R
 6c3b74d92fa2bf0a8041e3be0e2ca4f2 *man/RTConnect-package.Rd
